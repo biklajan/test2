@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Decol&display=swap');
+
+body{
+    margin: 0;
+}
+
+.logo{
+    text-decoration: none;
+    position: relative;
+    top: 30px;
+    left: 50px;
+    font-size: 30px;
+    width: 50px;
+    height: 20px;
+}
+
+.container{
+}
+
+ul{
+    font-size: 22px;
+    /* display: inline;
+    list-style-type: none;    
+    position: relative;
+    bottom:20px;
+    left: 400px; */
+    display: flex;
+    align-self: flex-start;
+    justify-content: center;
+
+}
+li{
+    display: inherit;
+    margin-left: 60px;
+}
+header{
+    background-color: rgba(56, 196, 206, 0.459);    
+    height: 100px;
+    position: relative;
+    bottom: 25px;
+}
+main{
+
+    background-color: rgba(255, 255, 255, 0.233);
+    padding-left: 70px;
+}
+
+
+.zagal{
+    font-family: 'Kaisei Decol', serif;
+    font-weight: 400;
+font-size: 40px;
+line-height: 58px;
+}
+
+.line1{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 50px;
+}
+
+
+.img1{
+    margin-right: 100px;
+    width: 100px;
+}
+.img2{
+    margin-right: 100px;
+    width: 100px;
+}
+.img3{
+    margin-right: 100px;
+    width: 100px;
+}
+.img4{
+    margin-right: 100px;
+    width: 100px;
+}
+.img5{
+    margin-right: 100px;
+    width: 100px;
+}
+.img6{
+    margin-right: 100px;
+    width: 100px;
+}
+
+
+
+
+/* .first_item{
+    margin-right: 100px;
+} */
+/* .secon_item{
+    margin-right: 100px;
+}
+.third_item{
+    margin-right: 100px;
+}
+.fourth_item{
+    margin-right: 100px;
+}
+.fifth_item{
+    margin-right: 100px;
+}
+.sixth_item{
+    margin-right: 100px;
+} */
